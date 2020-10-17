@@ -1,0 +1,11 @@
+{
+  "steam": {
+    "username": "user1",
+    "password": "456",
+    "website": "steam.de",
+    "twoFactor": true,
+    "email": "email@mail.de",
+    "Notes": "Erinnerung",
+    " nachricht": " hallo Welt"
+  }
+}
